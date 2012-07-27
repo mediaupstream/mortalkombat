@@ -1,0 +1,13 @@
+{
+    "name": "mortalkombat",
+    "version": "0.0.1",
+    "description": "All the Mortal Kombat character names, in an Array",
+    "main": "index.js",
+    "author": "Derek Anderson",
+    "keywords": ["names", "mortal", "kombat", "mortal kombat", "mortalkombat"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/mediaupstream/mortalkombat.git"
+    },
+    "engines": { "node": "*" }
+}
